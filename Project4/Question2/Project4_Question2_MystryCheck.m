@@ -1,12 +1,6 @@
-% Affan Selim KAYA 
-% 200709006
-% Computer Engineering (Eng)
-% Introduction to Programming 
-% CEN103
-% 2020-2021 1st Somestr
-% Project 4 Question 2 /SubFunction3=MystryCheck(MysteryCheck)
-% Asst.Prof. Deniz Dal
-function mysteriousPositionCheck= AffanSelim_KAYA_200709006_CEN103_Project4_Question2_MystryCheck(M)
+% Alaoefyn 
+
+function mysteriousPositionCheck= Project4_Question2_MystryCheck(M)
     mysteriousPositionCheck = 0;
     [numberOfRows,numberOfColumn] =size(M);
     temporaryVal =0;
