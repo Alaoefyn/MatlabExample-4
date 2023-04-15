@@ -1,13 +1,6 @@
-% Affan Selim KAYA 
-% 200709006
-% Computer Engineering (Eng)
-% Introduction to Programming 
-% CEN103
-% 2020-2021 1st Somestr
-% Project 4 Question 1 /SubFunction1=RngeAndIndx(RangeAndIndex)
-% Asst.Prof. Deniz Dal
+%Alaoefyn
 
-function mainIndex=	AffanSelim_KAYA_200709006_CEN103_Project4_Question1_RngeAndIndx(A)
+function mainIndex= Project4_Question1_RngeAndIndx(A)
 %boraArraySize and maxIndex assigned
 maxIndex=-10000;
 boraArraySize=length(A);
