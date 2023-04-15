@@ -1,13 +1,6 @@
-% Affan Selim KAYA 
-% 200709006
-% Computer Engineering (Eng)
-% Introduction to Programming 
-% CEN103
-% 2020-2021 1st Somestr
-% Project 4 Question 2/SubFunction2=AllZeroOne
-% Asst.Prof. Deniz Dal
+% Alaoefyn
 
-function givenValuesZeroOne=AffanSelim_KAYA_200709006_CEN103_Project4_Question2_AllZeroOne(M)
+function givenValuesZeroOne=Project4_Question2_AllZeroOne(M)
 [numberOfRows,numberOfColumn]=size(M);
 %Assigned to i and j
 for i=1:numberOfRows
