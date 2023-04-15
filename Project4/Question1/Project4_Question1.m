@@ -1,13 +1,7 @@
-% Affan Selim KAYA 
-% 200709006
-% Computer Engineering (Eng)
-% Introduction to Programming 
-% CEN103
-% 2020-2021 1st Somestr
-% Project 4 Question 1
-% Asst.Prof. Deniz Dal
+% Alaoefyn 
 
-function answer=AffanSelim_KAYA_200709006_CEN103_Project4_Question1(A)
+
+function answer=Project4_Question1(A)
 %Since the user is only guaranteed to enter integers, we do not check if the parameters entered are integers.
 %User should use [] when entering INTEGER values in parentheses.
 
@@ -17,7 +11,7 @@ if length(A)<3
     answer=0;
 %Otherwise,code will continue to check the other conditions.    
 else
-    answer=	AffanSelim_KAYA_200709006_CEN103_Project4_Question1_RngeAndIndx(A);
+    answer=	Project4_Question1_RngeAndIndx(A);
 %When the final check ends,it will print ans=1 if it is a Bora Array
 %Otherwise,it will print ans=0 again
 end
