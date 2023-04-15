@@ -1,6 +1,6 @@
 % Alaoefyn
 
-function givenValuesZeroOne=Project4_Question2_AllZeroOne(M)
+function givenValuesZeroOne= Project4_Question2_AllZeroOne(M)
 [numberOfRows,numberOfColumn]=size(M);
 %Assigned to i and j
 for i=1:numberOfRows
